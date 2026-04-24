@@ -1,0 +1,106 @@
+trust,region,year,total_attendances,total_breaches,total_admissions,avg_4hr_performance,avg_median_wait,avg_handover_delay,worst_month_performance,best_month_performance,annual_breach_rate_pct,performance_gap
+Barts Health NHS Trust,London,2018,229446,33125,64197,85.7,88.0,5.1,80.8,89.1,14.4,9.3
+Barts Health NHS Trust,London,2019,235250,38258,64161,83.8,96.0,5.7,78.7,87.5,16.3,11.2
+Barts Health NHS Trust,London,2020,202672,37541,52972,82.2,103.0,6.1,76.8,86.0,18.5,12.8
+Barts Health NHS Trust,London,2021,243831,63654,68647,74.0,134.0,9.0,68.1,77.7,26.1,21.0
+Barts Health NHS Trust,London,2022,250533,74437,69130,70.4,146.0,10.3,64.9,73.8,29.7,24.6
+Barts Health NHS Trust,London,2023,252700,87885,69204,65.3,177.0,12.4,61.2,70.1,34.8,29.7
+Barts Health NHS Trust,London,2024,258355,83070,74452,68.0,172.0,11.3,63.3,72.5,32.2,27.0
+Bristol Royal Infirmary,South West,2018,132306,16417,37067,87.7,83.0,4.1,83.4,91.0,12.4,7.3
+Bristol Royal Infirmary,South West,2019,131902,20032,35244,85.0,95.0,5.3,78.3,89.1,15.2,10.0
+Bristol Royal Infirmary,South West,2020,113502,19525,31968,83.4,102.0,4.3,79.3,86.5,17.2,11.6
+Bristol Royal Infirmary,South West,2021,139349,35936,38225,74.3,136.0,8.9,70.4,78.4,25.8,20.7
+Bristol Royal Infirmary,South West,2022,140226,41070,37915,70.8,158.0,10.0,67.0,75.0,29.3,24.2
+Bristol Royal Infirmary,South West,2023,142980,46782,37231,67.4,175.0,11.3,62.0,71.4,32.7,27.6
+Bristol Royal Infirmary,South West,2024,144220,43885,40872,69.7,164.0,10.6,64.4,74.1,30.4,25.3
+Cambridge University Hospitals,East of England,2018,119977,17465,33894,85.6,91.0,4.7,81.7,90.4,14.6,9.4
+Cambridge University Hospitals,East of England,2019,120162,19768,33308,83.7,97.0,5.1,78.5,88.0,16.5,11.3
+Cambridge University Hospitals,East of England,2020,105341,20467,29823,81.4,106.0,6.2,77.0,86.8,19.4,13.6
+Cambridge University Hospitals,East of England,2021,124113,33503,33962,73.1,144.0,9.8,68.5,75.7,27.0,21.9
+Cambridge University Hospitals,East of England,2022,126689,39531,34950,68.9,159.0,10.6,63.4,72.0,31.2,26.1
+Cambridge University Hospitals,East of England,2023,130490,44913,36432,65.7,191.0,12.1,60.3,69.7,34.4,29.3
+Cambridge University Hospitals,East of England,2024,131923,42192,36524,68.2,165.0,11.1,63.3,72.0,32.0,26.8
+King's College Hospital,London,2018,187063,30995,51216,83.6,92.0,5.4,80.6,88.1,16.6,11.4
+King's College Hospital,London,2019,190243,33579,50759,82.5,99.0,5.8,75.1,86.5,17.7,12.5
+King's College Hospital,London,2020,165260,33520,44939,80.2,114.0,7.3,76.2,84.0,20.3,14.8
+King's College Hospital,London,2021,198796,56711,55047,71.7,142.0,10.4,65.2,76.4,28.5,23.3
+King's College Hospital,London,2022,199581,64656,55117,67.7,182.0,11.1,63.4,71.3,32.4,27.3
+King's College Hospital,London,2023,203894,74278,57990,63.7,170.0,13.0,59.2,67.5,36.4,31.3
+King's College Hospital,London,2024,209632,71691,56539,66.0,200.0,11.9,59.8,69.6,34.2,29.0
+Leeds Teaching Hospitals,Yorkshire & Humber,2018,180390,29689,47499,83.7,95.0,5.6,78.0,89.2,16.5,11.3
+Leeds Teaching Hospitals,Yorkshire & Humber,2019,185437,33801,49526,81.9,101.0,7.0,77.1,85.6,18.2,13.1
+Leeds Teaching Hospitals,Yorkshire & Humber,2020,158428,31925,43284,80.7,115.0,6.9,75.1,85.3,20.2,14.3
+Leeds Teaching Hospitals,Yorkshire & Humber,2021,190099,52061,53021,72.7,142.0,9.3,69.2,77.5,27.4,22.3
+Leeds Teaching Hospitals,Yorkshire & Humber,2022,196152,62655,54336,68.2,171.0,11.3,63.9,73.9,31.9,26.8
+Leeds Teaching Hospitals,Yorkshire & Humber,2023,199351,72631,58080,63.7,194.0,12.6,58.5,66.6,36.4,31.3
+Leeds Teaching Hospitals,Yorkshire & Humber,2024,201820,66777,56953,67.0,175.0,10.7,61.9,70.5,33.1,28.0
+Liverpool University Hospitals,North West,2018,162118,15179,44737,90.8,73.0,2.0,84.1,94.6,9.4,4.2
+Liverpool University Hospitals,North West,2019,165842,19492,47123,88.4,77.0,4.1,82.3,91.5,11.8,6.6
+Liverpool University Hospitals,North West,2020,142442,18879,37769,87.4,82.0,3.7,81.4,91.2,13.3,7.6
+Liverpool University Hospitals,North West,2021,172041,37326,47410,78.5,112.0,7.1,74.0,81.6,21.7,16.5
+Liverpool University Hospitals,North West,2022,174150,44905,48520,74.4,152.0,9.0,68.9,79.1,25.8,20.6
+Liverpool University Hospitals,North West,2023,176778,52478,47377,70.5,158.0,10.4,65.2,75.5,29.7,24.5
+Liverpool University Hospitals,North West,2024,179396,49055,49563,72.8,141.0,9.0,66.3,78.8,27.3,22.2
+Manchester University NHS FT,North West,2018,211301,29967,57936,86.0,93.0,4.0,79.9,90.6,14.2,9.0
+Manchester University NHS FT,North West,2019,216661,33313,58667,84.8,105.0,5.5,79.0,89.1,15.4,10.2
+Manchester University NHS FT,North West,2020,188077,33152,49421,83.0,98.0,6.0,77.4,87.5,17.6,12.0
+Manchester University NHS FT,North West,2021,225522,58013,63518,74.4,139.0,8.8,68.4,77.9,25.7,20.6
+Manchester University NHS FT,North West,2022,229174,68971,63391,70.0,163.0,9.8,65.2,73.2,30.1,25.0
+Manchester University NHS FT,North West,2023,233256,78969,63172,66.3,181.0,11.6,61.3,70.4,33.9,28.7
+Manchester University NHS FT,North West,2024,237080,73593,64449,69.1,164.0,11.0,64.5,73.7,31.0,25.9
+Newcastle Upon Tyne Hospitals,North East,2018,138299,21507,38364,84.6,98.0,4.2,78.4,89.5,15.6,10.4
+Newcastle Upon Tyne Hospitals,North East,2019,140926,25473,39533,82.1,107.0,7.1,77.9,85.8,18.1,12.9
+Newcastle Upon Tyne Hospitals,North East,2020,120144,24951,33725,80.1,113.0,6.7,74.4,85.8,20.8,14.9
+Newcastle Upon Tyne Hospitals,North East,2021,144708,40273,39494,72.3,150.0,10.0,67.3,76.8,27.8,22.7
+Newcastle Upon Tyne Hospitals,North East,2022,147416,47329,40098,68.1,170.0,11.1,63.4,73.0,32.1,26.9
+Newcastle Upon Tyne Hospitals,North East,2023,150144,53834,41278,64.3,188.0,12.0,58.5,69.3,35.9,30.7
+Newcastle Upon Tyne Hospitals,North East,2024,152802,51331,43941,66.6,180.0,11.5,60.6,72.1,33.6,28.4
+Nottingham University Hospitals,Midlands,2018,143286,22972,39536,84.2,102.0,6.0,77.7,89.5,16.0,10.8
+Nottingham University Hospitals,Midlands,2019,146345,25441,38491,82.8,107.0,5.6,76.7,87.0,17.4,12.2
+Nottingham University Hospitals,Midlands,2020,124361,25127,35379,80.5,103.0,7.0,75.3,85.6,20.2,14.5
+Nottingham University Hospitals,Midlands,2021,150873,41589,40064,72.6,150.0,9.6,65.8,77.5,27.6,22.4
+Nottingham University Hospitals,Midlands,2022,154100,48635,42654,68.6,163.0,11.5,63.6,74.0,31.6,26.4
+Nottingham University Hospitals,Midlands,2023,155180,55335,40689,64.5,195.0,13.1,59.0,69.4,35.7,30.5
+Nottingham University Hospitals,Midlands,2024,159337,52148,42567,67.4,171.0,12.3,63.4,72.1,32.7,27.6
+Oxford University Hospitals,South East,2018,124575,20628,34881,83.6,98.0,6.1,78.1,87.9,16.6,11.4
+Oxford University Hospitals,South East,2019,128296,24038,34928,81.4,112.0,5.8,75.4,85.6,18.7,13.6
+Oxford University Hospitals,South East,2020,108593,22032,29660,80.3,102.0,6.1,74.5,83.8,20.3,14.7
+Oxford University Hospitals,South East,2021,131590,38001,35690,71.2,156.0,10.0,66.7,76.0,28.9,23.8
+Oxford University Hospitals,South East,2022,134222,44206,37076,67.2,182.0,11.0,61.9,70.6,32.9,27.8
+Oxford University Hospitals,South East,2023,135063,49067,36576,63.8,187.0,13.2,57.2,67.5,36.3,31.2
+Oxford University Hospitals,South East,2024,138856,47573,39083,65.9,194.0,12.4,60.3,69.9,34.3,29.1
+Royal Free London,London,2018,155125,25267,42075,83.9,98.0,5.2,79.2,89.9,16.3,11.1
+Royal Free London,London,2019,159402,28211,44402,82.5,103.0,5.4,76.6,87.8,17.7,12.5
+Royal Free London,London,2020,137193,27203,38231,80.6,115.0,6.4,75.8,84.4,19.8,14.4
+Royal Free London,London,2021,164578,45243,44813,72.7,146.0,9.2,67.5,77.4,27.5,22.3
+Royal Free London,London,2022,168035,53244,46575,68.5,164.0,10.8,63.1,72.9,31.7,26.5
+Royal Free London,London,2023,170890,60983,47267,64.5,186.0,13.1,59.6,67.9,35.7,30.5
+Royal Free London,London,2024,172882,58044,47159,66.7,167.0,11.4,60.2,71.4,33.6,28.3
+Salford Royal NHS FT,North West,2018,111383,14703,29803,87.0,87.0,4.3,81.4,92.1,13.2,8.0
+Salford Royal NHS FT,North West,2019,115570,18168,32298,84.4,100.0,5.0,78.9,87.2,15.7,10.6
+Salford Royal NHS FT,North West,2020,99252,17566,27171,82.9,97.0,5.9,76.7,87.6,17.7,12.1
+Salford Royal NHS FT,North West,2021,118164,30021,32151,74.7,135.0,8.3,69.0,78.6,25.4,20.3
+Salford Royal NHS FT,North West,2022,119534,35358,32191,70.6,156.0,10.1,65.4,75.2,29.6,24.4
+Salford Royal NHS FT,North West,2023,124128,42507,34851,65.9,181.0,11.0,60.7,70.5,34.2,29.1
+Salford Royal NHS FT,North West,2024,124711,38277,33686,69.4,168.0,10.6,64.7,72.9,30.7,25.6
+Sheffield Teaching Hospitals,Yorkshire & Humber,2018,148709,21699,41026,85.6,99.0,5.4,80.8,89.4,14.6,9.4
+Sheffield Teaching Hospitals,Yorkshire & Humber,2019,152648,26191,42748,83.0,100.0,6.7,77.0,88.1,17.2,12.0
+Sheffield Teaching Hospitals,Yorkshire & Humber,2020,131062,24142,35655,82.3,101.0,6.2,77.4,86.9,18.4,12.7
+Sheffield Teaching Hospitals,Yorkshire & Humber,2021,157475,43116,42150,72.8,144.0,9.7,67.9,77.5,27.4,22.2
+Sheffield Teaching Hospitals,Yorkshire & Humber,2022,160652,49604,44181,69.3,163.0,10.2,64.0,73.3,30.9,25.7
+Sheffield Teaching Hospitals,Yorkshire & Humber,2023,162809,56389,43882,65.6,177.0,12.1,59.4,70.9,34.6,29.4
+Sheffield Teaching Hospitals,Yorkshire & Humber,2024,166436,52967,46581,68.3,169.0,11.1,61.2,73.0,31.8,26.7
+St George's University Hospitals,London,2018,136836,16120,37437,88.3,84.0,4.2,83.2,92.2,11.8,6.7
+St George's University Hospitals,London,2019,140840,20616,37979,85.5,94.0,6.0,80.0,91.0,14.6,9.5
+St George's University Hospitals,London,2020,118801,18774,33128,84.8,93.0,5.0,80.0,90.0,15.8,10.2
+St George's University Hospitals,London,2021,145773,35434,40286,75.9,134.0,8.7,70.1,80.0,24.3,19.1
+St George's University Hospitals,London,2022,148227,40670,41036,72.7,145.0,9.2,66.8,77.2,27.4,22.3
+St George's University Hospitals,London,2023,147087,46694,39852,68.4,182.0,12.0,63.1,73.3,31.7,26.6
+St George's University Hospitals,London,2024,153352,45324,42580,70.6,153.0,10.5,66.5,75.7,29.6,24.4
+University Hospitals Birmingham,Midlands,2018,200739,22021,53255,89.1,78.0,4.1,84.3,92.4,11.0,5.9
+University Hospitals Birmingham,Midlands,2019,204207,24980,57348,87.9,82.0,4.6,82.8,92.1,12.2,7.1
+University Hospitals Birmingham,Midlands,2020,173495,26353,48294,85.5,88.0,4.7,80.6,90.4,15.2,9.5
+University Hospitals Birmingham,Midlands,2021,209565,48686,56891,76.9,121.0,8.0,70.7,80.8,23.2,18.1
+University Hospitals Birmingham,Midlands,2022,213595,58770,57667,72.7,152.0,8.9,67.3,77.5,27.5,22.3
+University Hospitals Birmingham,Midlands,2023,219020,67337,59717,69.4,159.0,10.9,64.6,73.9,30.7,25.6
+University Hospitals Birmingham,Midlands,2024,219899,62642,60346,71.7,155.0,10.4,66.2,75.7,28.5,23.3
