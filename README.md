@@ -3,8 +3,6 @@
 > End-to-end analysis of NHS England A&E performance across 15 major trusts.
 > Identifies seasonal pressure patterns, trust-level performance gaps, COVID impact, and predictive signals for 4-hour breach rates.
 
-![National Performance Decline](outputs/01_national_performance_decline.png)
-
 ---
 
 ## 🔴 Live Dashboard
