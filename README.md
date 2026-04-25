@@ -7,7 +7,7 @@
 
 ## 🔴 Live Dashboard
 
-[![View Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Now-DA291C?style=for-the-badge)](https://YOUR_USERNAME.github.io/nhs-ae-wait-time-analysis/)
+[![View Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Now-DA291C?style=for-the-badge)](https://RidhimaGupta4.github.io/nhs-ae-wait-time-analysis/)
 
 ---
 
