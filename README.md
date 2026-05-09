@@ -323,26 +323,33 @@ To switch from synthetic to live data, use the `fetch_nhs_ae_data()` stub at the
 
 ## 🔍 Visual Insights
 
-### National 4-Hour Performance Decline 2018–2024
+### 📉 National 4-Hour Performance Decline 2018–2024
 ![National Performance Decline](outputs/01_national_performance_decline.png)
+> **Analysis:** Visualises the systemic erosion of the 95% constitutional standard. The trend shows a steady decline from ~86% in 2018 to a record low of ~65.9% in 2023, highlighting that "winter pressures" have now transitioned into a year-round operational crisis.
 
-### Seasonal Heatmap — Performance by Month and Year
+### 🌡️ Seasonal Heatmap — Performance by Month and Year
 ![Seasonal Heatmap](outputs/02_seasonal_heatmap.png)
+> **Analysis:** Identifies predictable "danger zones" in the calendar. January consistently appears as the highest-risk month across all years, with an average 4-hour performance of 70.7%.
 
-### Trust Performance League Table 2024
+### 🏆 Trust Performance League Table 2024
 ![Trust League Table](outputs/03_trust_league_table_2024.png)
+> **Analysis:** Ranks the 15 major trusts by 4-hour compliance. Even the best-performing trust in 2024, Liverpool University Hospitals, reached only 72.8%, failing to meet the 95% target.
 
-### Winter vs Summer Performance and Wait Time Gap
+### ❄️ Winter vs Summer Performance Gap and Wait Time Gap
 ![Winter Summer Gap](outputs/04_winter_summer_gap.png)
+> **Analysis:** Quantifies the "Seasonal Swing," showing an 8.9 percentage point difference between January and May. This visualization is critical for bed-capacity planning and elective surgery rescheduling strategies.
 
-### COVID-19 Impact on Attendances and Performance
+### 🦠 COVID-19 Impact on Attendances and Performance
 ![COVID Impact](outputs/05_covid_impact.png)
+> **Analysis:** Captures the structural break in early 2020, where attendances dropped by 53% during the lockdown period compared to 2019. Despite lower volume, performance remained under pressure due to systemic infection control and hospital flow constraints.
 
-### Trust Performance Divergence — Best 5 vs Worst 5
+### ↔️ Trust Performance Divergence — Best 5 vs Worst 5
 ![Trust Divergence](outputs/06_trust_divergence.png)
+> **Analysis:** Tracks the widening "Performance Gap" over time between the top and bottom performing trusts. In 2024, the gap remains significant, with the worst performing trust (Oxford University Hospitals) at 65.9%.
 
-### Ambulance Handover Delay vs Breach Rate Correlation
+### 🚑 Ambulance Handover Delay vs Breach Rate Correlation
 ![Handover Correlation](outputs/07_handover_breach_correlation.png)
+> **Analysis:** Proves the "System-Flow" hypothesis with a strong positive correlation of $r = 0.73$ between handover delays and A&E breach rates. This confirms that A&E performance is a downstream symptom of hospital-wide "exit block".
 
 ---
 
