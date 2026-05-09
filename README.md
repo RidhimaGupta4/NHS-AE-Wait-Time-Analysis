@@ -1,5 +1,5 @@
 # 🏥 NHS A&E Wait Time Analysis — England 2018–2024
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-DA291C?style=flat-square) ![Data Quality](https://img.shields.io/badge/Data%20Quality-Verified-005EB8?style=flat-square)
+![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-DA291C?style=flat-square) ![Data Quality](https://img.shields.io/badge/Data%20Quality-Verified-005EB8?style=flat-square)
 
 > End-to-end analysis of NHS England A&E performance across 15 major trusts.
 > Identifies seasonal pressure patterns, trust-level performance gaps, COVID impact, and predictive signals for 4-hour breach rates.
@@ -133,6 +133,15 @@ How many percentage points a trust is away from the NHS constitutional standard.
 
 ---
 
+### ⚠️ Project Limitations
+
+This analysis provides a high-level operational view, but the following limitations should be noted:
+*   **Clinical Acuity (Triage)**: The dataset does not capture the "severity" of cases (e.g., Resuscitation vs. Minor injuries), which heavily dictates wait times regardless of department volume.
+*   **Staffing Levels**: Performance is analyzed against attendance volume, but does not account for nursing or medical staffing vacancies which are primary drivers of 4-hour breaches.
+*   **Indirect Breaches**: The analysis focuses on "Time to Disposition" but cannot account for "Left Before Being Seen" (LBBS) rates, which can mask the true scale of A&E pressure.
+
+---
+
 ## 🛠️ Quick Start
 
 ### 1. Clone the repository
@@ -248,6 +257,14 @@ Includes: prior month performance, prior month breach rate, 3-month rolling atte
 
 ---
 
+### ⚖️ Data Ethics & Clinical Governance
+
+*   **Synthetic Alignment**: While the dataset is synthetic, it is meticulously calibrated to **NHS England's Monthly A&E Statistics** and **Ambulance Quality Indicators (AQIs)** to ensure the trends reflect real-world clinical pressures.
+*   **Patient Confidentiality**: The project follows **General Data Protection Regulation (GDPR)** and the **NHS National Data Opt-Out** standards by ensuring all data is aggregated at the Trust level. No Patient Identifiable Information (PII) or individual record-level data is used or stored.
+*   **Operational Integrity**: The metrics used (4-hour breach rates, handover delays) align with the **NHS Constitutional Standards** and the **Clinical Review of Standards (CRS)** framework.
+
+---
+
 ## 📈 SQL Queries Included
 
 | Query | Purpose |
@@ -341,3 +358,9 @@ Built as a UK data analyst / data scientist portfolio project.
 **Connect:** [LinkedIn](https://www.linkedin.com/in/ridhimagupta1623/) · [GitHub](https://github.com/RidhimaGupta4) 
 
 > If this project helped you, please ⭐ star the repo — it helps others find it.
+
+## 📁 Explore More Projects
+
+*   **[🏠 UK Property Price Predictor](https://github.com/RidhimaGupta4/UK-Property-Price-Predictor)** — High-accuracy ML pipeline for real estate valuation and geospatial analysis.
+*   **[🛒 E-commerce Funnel & Churn Analysis](https://github.com/RidhimaGupta4/Ecommerce-Churn-Analysis)** — Customer segmentation, RFM modeling, and retention strategy.
+*   **[🇬🇧 UK Cost-of-Living Dashboard](https://github.com/RidhimaGupta4/UK-Cost-of-Living)** — Regional economic data storytelling and affordability mapping.
