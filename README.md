@@ -1,4 +1,5 @@
 # 🏥 NHS A&E Wait Time Analysis — England 2018–2024
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-DA291C?style=flat-square) ![Data Quality](https://img.shields.io/badge/Data%20Quality-Verified-005EB8?style=flat-square)
 
 > End-to-end analysis of NHS England A&E performance across 15 major trusts.
 > Identifies seasonal pressure patterns, trust-level performance gaps, COVID impact, and predictive signals for 4-hour breach rates.
