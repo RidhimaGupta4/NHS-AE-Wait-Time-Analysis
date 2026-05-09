@@ -294,13 +294,13 @@ To switch from synthetic to live data, use the `fetch_nhs_ae_data()` stub at the
 
 ## 💼 Skills Demonstrated
 
-- ✅ Healthcare domain knowledge — NHS structure, constitutional targets, trust-level reporting
-- ✅ Time series analysis — seasonal decomposition, trend identification, structural break detection
-- ✅ Real-world messy data handling — COVID disruption periods, outliers, structural breaks in 2020–2021
-- ✅ Predictive feature engineering — lag variables, rolling averages, binary flags, ready for ML models
-- ✅ SQL analytical thinking — 10 queries covering ranking, cohort, correlation, pivot, and predictive banding
-- ✅ Stakeholder communication — every finding framed as an operational NHS insight, not just a statistic
-- ✅ End-to-end pipeline — raw data generation → cleaning → analysis → static charts → interactive dashboard
+- Healthcare domain knowledge — NHS structure, constitutional targets, trust-level reporting
+- Time series analysis — seasonal decomposition, trend identification, structural break detection
+- Real-world messy data handling — COVID disruption periods, outliers, structural breaks in 2020–2021
+- Predictive feature engineering — lag variables, rolling averages, binary flags, ready for ML models
+- SQL analytical thinking — 10 queries covering ranking, cohort, correlation, pivot, and predictive banding
+- Stakeholder communication — every finding framed as an operational NHS insight, not just a statistic
+- End-to-end pipeline — raw data generation → cleaning → analysis → static charts → interactive dashboard
 
 ---
 
