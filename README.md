@@ -282,12 +282,14 @@ To switch from synthetic to live data, use the `fetch_nhs_ae_data()` stub at the
 
 | Tool | Badge | Role |
 | :--- | :--- | :--- |
-| **Python** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white) | Data pipeline and analysis |
-| **Pandas** | ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat-square&logo=pandas&logoColor=white) | Data manipulation & transformation |
-| **SQL** | ![SQL](https://img.shields.io/badge/SQL-DuckDB-00758F?style=flat-square&logo=sqlite&logoColor=white) | 10 analytical queries & performance ranking |
-| **Chart.js** | ![Chart.js](https://img.shields.io/badge/Chart.js-4.4.1-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) | Interactive dashboard (12 charts) |
-| **Matplotlib** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=flat-square) | Static chart generation for EDA |
-| **Frontend** | ![Web](https://img.shields.io/badge/HTML5_CSS3_JS-ES6+-E34F26?style=flat-square&logo=html5&logoColor=white) | Self-contained, serverless dashboard UI |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white) | Core data pipeline and automated analysis |
+| **SQL** | ![SQL](https://img.shields.io/badge/SQL-Analytical-CC0000?style=flat-square&logo=postgresql&logoColor=white) | 10 complex queries (Ranking, COVID impact, Seasonal analysis) |
+| **Pandas / NumPy** | ![Data](https://img.shields.io/badge/Pandas_/_NumPy-Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white) | Data manipulation and numerical computation |
+| **DuckDB** | ![DuckDB](https://img.shields.io/badge/DuckDB-Database-FFF000?style=flat-square&logo=duckdb&logoColor=black) | High-performance SQL engine for local data processing |
+| **Frontend** | ![Web](https://img.shields.io/badge/HTML5_/_CSS3-UI-E34F26?style=flat-square&logo=html5&logoColor=white) | Dashboard architecture and responsive layout design |
+| **JavaScript** | ![JS](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Interactive logic and real-time data filtering |
+| **Chart.js** | ![Chart.js](https://img.shields.io/badge/Chart.js-Visualization-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) | Interactive dashboard charts (12 custom visualizations) |
+| **Matplotlib** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-Static_Charts-11557c?style=flat-square) | Static EDA chart generation for reporting |
 ---
 
 ## 💼 Skills Demonstrated
