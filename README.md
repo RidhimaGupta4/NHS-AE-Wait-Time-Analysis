@@ -30,7 +30,7 @@ It covers 15 major Type 1 A&E departments, 84 months of data (2018–2024), and 
 
 ## 🗂️ Repository Structure
 ```
-nhs-ae-wait-time-analysis/
+NHS-AE-Wait-Time-Analysis/
 │
 ├── scripts/
 │   ├── 01_generate_data.py             # Data generation (NHS-aligned synthetic + live API stub)
@@ -47,7 +47,7 @@ nhs-ae-wait-time-analysis/
 │       └── dashboard_data.json         # All datasets combined for dashboard
 │
 ├── dashboard/
-│   └── index.html                      # ✅ Fully self-contained interactive dashboard
+│   └── index.html                      # Fully self-contained interactive dashboard
 │
 ├── outputs/
 │   ├── 01_national_performance_decline.png
@@ -138,8 +138,8 @@ How many percentage points a trust is away from the NHS constitutional standard.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nhs-ae-wait-time-analysis.git
-cd nhs-ae-wait-time-analysis
+git clone https://github.com/RidhimaGupta4/NHS-AE-Wait-Time-Analysis.git
+cd NHS-AE-Wait-Time-Analysis
 ```
 
 ### 2. Install dependencies
@@ -304,7 +304,7 @@ To switch from synthetic to live data, use the `fetch_nhs_ae_data()` stub at the
 
 ---
 
-## 🖼️ Chart Gallery
+## 🔍 Visual Insights
 
 ### National 4-Hour Performance Decline 2018–2024
 ![National Performance Decline](outputs/01_national_performance_decline.png)
