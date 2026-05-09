@@ -280,16 +280,14 @@ To switch from synthetic to live data, use the `fetch_nhs_ae_data()` stub at the
 
 ## 🧰 Tech Stack
 
-| Tool | Version | Role |
-|---|---|---|
-| Python | 3.10+ | Data pipeline and analysis |
-| pandas | 2.0+ | Data manipulation and transformation |
-| numpy | 1.24+ | Numerical computation |
-| matplotlib | 3.7+ | Static chart generation (7 charts) |
-| Chart.js | 4.4.1 | Interactive dashboard charts (12 charts) |
-| HTML / CSS / JavaScript | — | Self-contained dashboard frontend |
-| SQL | DuckDB / SQLite / PostgreSQL | 10 analytical queries |
-
+| Tool | Badge | Role |
+| :--- | :--- | :--- |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white) | Data pipeline and analysis |
+| **Pandas** | ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat-square&logo=pandas&logoColor=white) | Data manipulation & transformation |
+| **SQL** | ![SQL](https://img.shields.io/badge/SQL-DuckDB-00758F?style=flat-square&logo=sqlite&logoColor=white) | 10 analytical queries & performance ranking |
+| **Chart.js** | ![Chart.js](https://img.shields.io/badge/Chart.js-4.4.1-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) | Interactive dashboard (12 charts) |
+| **Matplotlib** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=flat-square) | Static chart generation for EDA |
+| **Frontend** | ![Web](https://img.shields.io/badge/HTML5_CSS3_JS-ES6+-E34F26?style=flat-square&logo=html5&logoColor=white) | Self-contained, serverless dashboard UI |
 ---
 
 ## 💼 Skills Demonstrated
