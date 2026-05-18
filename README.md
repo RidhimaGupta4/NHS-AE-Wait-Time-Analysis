@@ -356,6 +356,7 @@ To switch from synthetic to live data, use the `fetch_nhs_ae_data()` stub at the
 ## 📄 Licence
 
 MIT — free to use and adapt
+
 ---
 
 ## 🙋 Author
